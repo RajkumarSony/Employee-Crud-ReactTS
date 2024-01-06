@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# Build artifacts
+build/
+dist/
+coverage/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# Dependency directories
+pnpm-lock.yaml
+yarn.lock
