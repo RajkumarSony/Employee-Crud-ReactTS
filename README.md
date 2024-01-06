@@ -7,3 +7,5 @@ npm install
 ```
 npm start
 ```
+
+### Important* : Server Port Number should be `3000`.
